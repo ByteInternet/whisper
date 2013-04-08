@@ -1,0 +1,2 @@
+bin/* /usr/bin/
+whisper.py /opt/graphite/lib/

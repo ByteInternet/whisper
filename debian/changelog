@@ -1,0 +1,29 @@
+whisper (0.9.10-5) unstable; urgency=low
+
+  * Dependencies updated. Requires python (>= 2.6)
+
+ -- Daniel Genis <daniel@byte.nl>  Thu, 14 Mar 2013 11:10:13 +0100
+
+whisper (0.9.10-4) unstable; urgency=low
+
+  * First production build 
+
+ -- Daniel Genis <daniel@byte.nl>  Thu, 14 Mar 2013 10:32:48 +0100
+
+whisper (0.9.10-3) unstable; urgency=low
+
+  * next increment 
+
+ -- Sudesh Jethoe <sudesh@byte.nl>  Tue, 12 Mar 2013 17:23:13 +0100
+
+whisper (0.9.10-2) unstable; urgency=low
+
+  * test increment
+
+ -- Sudesh Jethoe <sudesh@byte.nl>  Tue, 12 Mar 2013 11:14:58 +0100
+
+whisper (0.9.10-1) unstable; urgency=low
+
+  * source package automatically created by stdeb 0.6.0
+
+ -- Daniel Genis <daniel@byte.nl>  Fri, 08 Mar 2013 17:02:54 +0100
